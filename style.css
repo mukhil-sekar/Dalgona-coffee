@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+body{
+    background-color: peachpuff;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    color: rebeccapurple;
+    text-decoration: underline;
+}
+button{
+    background: red;
+    color: royalblue;
+    font-size: 120%;
+    
+
+}
